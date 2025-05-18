@@ -45,12 +45,9 @@ Pentru a înțelege mai bine contextul și implicațiile inteligenței artificia
 ---
 
 ## 📸 Capturi de ecran
+![Untitled](https://github.com/user-attachments/assets/3fade86d-b62e-494f-a7f3-a2e7695f4470)
 
-![Screenshot 1](Screenshot 2025-05-18 200118.png)  
-![Screenshot 2](Untitled.png)  
-![Screenshot 3](Untitled2.png)
-![Screenshot 4](Untitled3.png)
-![Screenshot 5](Untitled4.png)
+![Untitled3](https://github.com/user-attachments/assets/de126446-5a0a-4708-95e3-45ef8a723d94)
 
 ---
 

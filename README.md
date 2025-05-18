@@ -49,10 +49,5 @@ Pentru a înțelege mai bine contextul și implicațiile inteligenței artificia
 
 ![Untitled3](https://github.com/user-attachments/assets/de126446-5a0a-4708-95e3-45ef8a723d94)
 
----
 
-## 🙏 Mulțumiri
-
-Mulțumim tuturor celor care ne-au susținut și mentorilor noștri!  
-Proiectul este rezultatul pasiunii pentru tehnologie, creativitate și învățare colaborativă.
 

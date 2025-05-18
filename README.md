@@ -2,7 +2,7 @@
 
 **Titlu proiect**: (INTELIGENȚA ARTIFICIALĂ - O UNEALTĂ SAU UN INAMIC?)
 
-## Link Youtube - https://youtu.be/g6ejyx2Fpf8
+## Link Youtube - [https://youtu.be/g6ejyx2Fpf8](https://youtu.be/ELUAjU1LSpw)
 
 ## 👨‍💻 Realizatori
 

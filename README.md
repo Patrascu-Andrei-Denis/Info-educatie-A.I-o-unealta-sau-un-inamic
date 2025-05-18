@@ -2,7 +2,7 @@
 
 **Titlu proiect**: (INTELIGENȚA ARTIFICIALĂ - O UNEALTĂ SAU UN INAMIC?)
 
----
+## Link Youtube - https://youtu.be/g6ejyx2Fpf8
 
 ## 👨‍💻 Realizatori
 
@@ -23,6 +23,27 @@ Pe de altă parte, este idealizat complet, ca o soluție perfectă, mai bună de
 Prin personajele și scenariile exagerate, am satirizat ambele perspective pentru a transmite o idee clară: niciuna dintre aceste viziuni nu este cu adevărat sănătoasă sau realistă. Proiectul nu este doar o parodie, ci și o invitație la reflecție și echilibru în felul în care discutăm despre tehnologiile emergente.
 
 Rezultatul este o lucrare creativă, cu tentă filozofică și socială, care folosește umorul pentru a vorbi despre o temă extrem de actuală.
+
+##🛠️ Tehnici de editare video utilizate
+Pentru realizarea proiectului nostru, am folosit DaVinci Resolve Studio, un software profesional de post-producție video. Am lucrat extensiv în modulul Fusion, care oferă un mediu de compoziție bazat pe noduri — o metodă avansată de editare ce permite un control detaliat asupra fiecărui efect vizual și a fiecărui layer din compoziție. Fusion este adesea folosit în industrie pentru efecte vizuale complexe, întrucât permite combinarea flexibilă a imaginilor, animațiilor și filtrelor într-un mod non-liniar.
+
+În cadrul proiectului am integrat o gamă largă de tehnici, printre care:
+
+🎛️ Glitch effects, în special pentru personajul LUMI, pentru a accentua tema instabilității și haosului digital.
+
+🎬 Tranziții multiple între scene, folosind diferite stiluri (disolvări, tăieturi rapide, glisări animate) pentru a menține un ritm alert și variat.
+
+🟢 Chroma keying, pentru a integra efecte speciale.
+
+🕒 Manipulări ale timpului: slow-motion, fast-forward, și time remapping pentru a crea dinamism sau tensiune în anumite momente cheie.
+
+💡 Controlul luminii și transparenței, atât pentru estetică, cât și pentru efecte dramatice sau simbolice.
+
+📸 Layering și compoziție avansată: suprapuneri de elemente 2D/3D, interacțiuni între animații și fundaluri animate.
+
+🔁 Loopuri animate și elemente stilizate de tip „motion graphics”.
+
+🎨 Color grading și corecție de culoare pentru a diferenția stilistic cele două viziuni prezentate (tehnofobie vs tehnofilie).
 
 ## 🛠️ Tehnologii și Programe Folosite
 
